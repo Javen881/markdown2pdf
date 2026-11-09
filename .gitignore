@@ -1,0 +1,12 @@
+.venv/
+md2pdf-env/
+__pycache__/
+build/
+*.pyc
+*.log
+win-build/packages/
+win-build/msys-packages/packages/
+win-build/python-*.exe
+win-build/msys2.exe
+dist/Markdown转PDF
+
